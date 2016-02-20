@@ -1,3 +1,7 @@
+/*
+ * Author: Mohamed Lamine KARAOUI
+ */
+
 typedef string nametype<>;			/* event entry */
 
 struct date_s {

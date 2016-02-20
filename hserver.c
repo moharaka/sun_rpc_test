@@ -1,3 +1,7 @@
+/*
+ * Author: Mohamed Lamine KARAOUI
+ */
+
 #include "hist.h"                /* Created by rpcgen */
 #include <string.h>
 

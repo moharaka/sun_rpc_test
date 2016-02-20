@@ -1,3 +1,7 @@
+#
+#Author: Mohamed Lamine KARAOUI
+#
+
 XFILE=hist.x
 CFILES=hist.c
 SFILES=hserver.c
